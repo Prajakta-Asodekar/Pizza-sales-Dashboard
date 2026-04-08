@@ -1,2 +1,2 @@
 
-"https://github.com/Prajakta-Asodekar/Zomato-landing-page-Project/pizza sales Dashboard.PNG"
+https://github.com/Prajakta-Asodekar/Pizza-Sales-Dashboard/pizza sales Dashboard.PNG
